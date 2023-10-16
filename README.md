@@ -8,9 +8,11 @@ so maybe what most calls me is the frontEnd, but I want to leave a gap to the ba
 
 During my computer days, my job entailed the assembly/modification of high performance gaming computers, on [Versus gamers](https://www.vsgamers.es).
 
+
 ## __You can find me on__
 
-- 📝 ***[Linkedin ](https://www.linkedin.com/in/pablo-diaz-3a064bb3/)*** 
-- 🖥 ***[Behance](https://www.behance.net/mywkz?log_shim_removal=1)*** 
+📝 ***[Linkedin ](https://www.linkedin.com/in/pablo-diaz-3a064bb3/)*** 
+🖥 ***[Behance](https://www.behance.net/mywkz?log_shim_removal=1)*** 
+
 
 
