@@ -6,7 +6,7 @@
 I really like technology and I've worked as a computer technician for 5 years, I also worked as a graphic designer and I studied web design
 so maybe what most calls me is the frontEnd, but I want to leave a gap to the backEnd and get into this world.
 
-During my computer days, my job entailed the assembly/modification of high performance gaming computers, Versus gamers.
+During my computer days, my job entailed the assembly/modification of high performance gaming computers, on [Versus gamers](https://www.vsgamers.es).
 
 ## __You can find me on__
 
