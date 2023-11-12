@@ -49,7 +49,7 @@ During my computer days, my job entailed the assembly/modification of high perfo
 
 ##
 
-<h3 align="left">Languages I am interested in learning</h3>
+<h3 align="left">Languages & tools I am interested in learning</h3>
 
 <p align="left">
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="35" height="40"/></a> 
