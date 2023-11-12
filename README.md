@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pablo 🥰 </h1>
 
 ![image](https://github.com/envyx10/envyx10/assets/29457987/6dc5dafe-34b6-4ced-9c2d-c1af1f38016f)
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=envyx10&show_icons=true&locale=en&layout=compact" alt="envyx10" /></p></p>
+
 <h3 align="left">I'm Pablo and I'm in the process of becoming a Junior web application developer, I'm from Malaga, Andalucia, Spain.</h3>
 
 I really like technology and I've worked as a computer technician for 5 years, I also worked as a graphic designer and I studied web design
 so maybe what most calls me is the frontEnd, but I want to leave a gap to the backEnd and get into this world.
 
 During my computer days, my job entailed the assembly/modification of high performance gaming computers, on [Versus gamers](https://www.vsgamers.es).
+
+##
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=envyx10&show_icons=true&locale=en&layout=compact" alt="envyx10" /></p></p>
 
 
 ##
@@ -16,7 +19,6 @@ During my computer days, my job entailed the assembly/modification of high perfo
 <p align="left">
 <a href="https://linkedin.com/in/pablo-diaz-3a064bb3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-diaz-3a064bb3" height="30" width="40" /></a>
 </p>
-
 
 
 ##
@@ -51,7 +53,8 @@ During my computer days, my job entailed the assembly/modification of high perfo
 <p align="left">
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="35" height="40"/></a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="40"/></a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="40"/></a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="40"/></a>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
 
