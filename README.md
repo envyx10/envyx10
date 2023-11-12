@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo 🥰 </h1>
-![image](https://github.com/envyx10/envyx10/assets/29457987/d78b5147-1294-4db0-bc13-9d637eb7348d)
 
+<span>![</span><span>devs</span><span>]</span><span>(</span><span>(https://github.com/envyx10/envyx10/assets/29457987/d78b5147-1294-4db0-bc13-9d637eb7348d)</span>
 
 <h3 align="left">I'm Pablo and I'm in the process of becoming a Junior web application developer, I'm from Malaga, Andalucia, Spain.</h3>
   <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=envyx10&show_icons=true&locale=en&layout=compact" alt="envyx10" /></p></p>
