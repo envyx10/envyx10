@@ -52,7 +52,7 @@ During my computer days, my job entailed the assembly/modification of high perfo
   
   </p>
 
-  <p> <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=envyx10&show_icons=true&locale=en" alt="envyx10" /></p>
+
 
  
 
