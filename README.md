@@ -1,8 +1,3 @@
-<style>
-    .markdown-body {
-        border: none !important;
-    }
-</style>
 
 ### Hi 👋, I'm Pablo 🥰
 
