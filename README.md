@@ -1,9 +1,4 @@
 
-<div style="text-align: center; padding: 100px 0; background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wcAAgAB/axnkwAAAABJRU5ErkJggg==') no-repeat center center;">
-</div>
-
-
-
 ### Hi 👋, I'm Pablo 🥰
 
 <p
