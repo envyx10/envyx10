@@ -13,15 +13,9 @@ Durante mi tiempo como técnico informático, me especialicé en ensamblar y mod
 > *During my time as a computer technician, I specialized in assembling and modifying high-performance gaming computers at Versus Gamers.*
 
 
-
 <div style="display: flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/pablo-diaz-3a064bb3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-  </a>
-
-  <a href="https://www.instagram.com/envyx10/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
-  </a>
+  <a href="https://www.linkedin.com/in/pablo-diaz-3a064bb3/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+  <a href="https://www.instagram.com/envyx10/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
 </div>
 <hr>
 
