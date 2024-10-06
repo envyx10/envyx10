@@ -30,6 +30,6 @@ During my time as a computer technician, I specialized in assembling and modifyi
 ###
 <hr>
  
-<div style="padding-bottom: 100px; text-align: center; padding-top: 100px">
-    <img src="https://github.com/user-attachments/assets/9791d5de-1f63-4632-b07a-e19d134350ee" alt="FRONT" width="500px">
+<div style="text-align: center; padding: 100px 0;">
+    <img src="https://github.com/user-attachments/assets/9bc1935e-bd93-4e68-91ed-b3ddf787434b" alt="backandfront">
 </div>
