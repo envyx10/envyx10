@@ -1,19 +1,25 @@
 
-<h2 align="left">Hi 👋, I'm Pablo 🥰 , I'm from Malaga, Andalucia, Spain<br></h2>
+### Hi 👋, I'm Pablo 🥰
 
-###
-<p align="left">I really like technology and I've worked as a computer technician for 5 years, I also worked as a graphic designer and I studied web design so maybe what most calls me is the frontEnd, but I want to leave a gap to the backEnd and get into this world.<br><br>During my computer days, my job entailed the assembly/modification of high performance gaming computers, on Versus gamers.</p>
+<p
 
-<div align="left">
+I'm from Malaga, Andalucia, Spain. I have a strong passion for technology and have worked as a computer technician for 5 years. Additionally, I have experience as a graphic designer and have studied web design. My primary interest lies in front-end development, but I am also eager to explore back-end development and expand my skills in this area.
+
+During my time as a computer technician, I specialized in assembling and modifying high-performance gaming computers at Versus Gamers.
+</p>
+
+
+<div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/pablo-diaz-3a064bb3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
-  
+
   <a href="https://www.instagram.com/envyx10/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
   </a>
-  
 </div>
+<hr>
+
 
 
 <div align="left">
@@ -24,7 +30,6 @@
 ###
 <hr>
  
-<div>
-    <img src="https://github.com/user-attachments/assets/8a428e7f-ce51-4271-9295-9077860f4433" alt="FRONT" width="500px">
+<div style="padding-bottom: 100px; text-align: center; padding-top: 100px">
+    <img src="https://github.com/user-attachments/assets/9791d5de-1f63-4632-b07a-e19d134350ee" alt="FRONT" width="500px">
 </div>
-
