@@ -22,5 +22,5 @@ Durante mi tiempo como técnico informático, me especialicé en ensamblar y mod
 <hr>
 
 <div style="text-align: center; padding: 100px 0;">
-    <img src="https://github.com/user-attachments/assets/6e9ecc18-4cc4-41eb-ad48-54ffcadb0ab2" alt="backandfront">
+    <img src="https://github.com/user-attachments/assets/b77f8eba-eff8-4cc5-9ca1-6b5c9003f6d1" alt="backandfront">
 </div>
